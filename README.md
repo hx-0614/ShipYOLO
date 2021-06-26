@@ -1,3 +1,7 @@
+Paper: ShipYOLO: An Enhanced Model for Ship Detection
+DOI: https://doi.org/10.1155/2021/1060182
+Xu Han, "ShipYOLO: An Enhanced Model for Ship Detection," Journal of Advanced Transportation, vol. 2021, Article ID 1060182, 11 pages, 2021. https://doi.org/10.1155/2021/1060182.
+
 # 1. Installation related environment
 ```shell
 git clone https://github.com/hx-0614/ShipYOLO.git
